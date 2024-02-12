@@ -1,0 +1,19 @@
+.encabezado{
+    background-color: rgb(228, 228, 228);
+    padding: 0.1%;
+    display: flex;
+    flex-direction: row;
+    }
+    .emprendedores{
+        margin: 40px;
+        padding: 3%;
+        background-color: rgb(189, 189, 189);
+    }
+    
+
+
+
+    .imagen1{
+       height: 400px;
+        width: 400px;
+    }
